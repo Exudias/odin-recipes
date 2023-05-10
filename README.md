@@ -1,2 +1,2 @@
 # odin-recipes
-ODP Project: Recipes
+My repo for the ODP project "Recipes".
